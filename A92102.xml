@@ -1,0 +1,250 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble desires of Prince Rupert, Prince Maurice, and others their adherents, to the Kings Most Excellent Majestie, to be tryed at a counsell of war. Together with His Majesties letter to Colonel Samuel Sands Governour of Worcester, concerning the persons aforesaid.</title>
+            <author>Rupert, Prince, Count Palatine, 1619-1682.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92102</idno>
+            <idno type="STC">Wing R2298</idno>
+            <idno type="STC">Thomason E313_29</idno>
+            <idno type="STC">ESTC R200483</idno>
+            <idno type="EEBO-CITATION">99861215</idno>
+            <idno type="PROQUEST">99861215</idno>
+            <idno type="VID">113344</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92102)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113344)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 51:E313[29])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble desires of Prince Rupert, Prince Maurice, and others their adherents, to the Kings Most Excellent Majestie, to be tryed at a counsell of war. Together with His Majesties letter to Colonel Samuel Sands Governour of Worcester, concerning the persons aforesaid.</title>
+                  <author>Rupert, Prince, Count Palatine, 1619-1682.</author>
+                  <author>Maurice, Prince, 1620-1652.</author>
+                  <author>Sands, Samuel, Colonel.</author>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I).</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edw. Husband, printer to the Honorable House of Commons, and are to be sold at his shop at the sign of the Golden Dragon in Fleetstreet neer the Inner-Temple,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>December 30. 1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The letter from Rupert and Maurice is signed by them and 21 others.</note>
+                  <note>The letter from King Charles I is dated at end: Nov. 23. 1645.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rupert, --  Prince, Count Palatine, 1619-1682.</term>
+               <term>Maurice, --  Prince, 1620-1652.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113344:1" rendition="simple:additions"/>
+            <p>The Humble DESIRES OF Prince <hi>Rupert,</hi> Prince <hi>Maurice,</hi> and others their Adherents, <hi>To the Kings moſt Excellent Majeſtie;</hi> TO Be tryed at a Counſell of VVar.</p>
+            <p>Together with His Majeſties Letter TO Colonel <hi>Samuel Sands</hi> Governour of <hi>Worceſter,</hi> Concerning the Perſons aforeſaid.</p>
+            <p>London, Printed for <hi>Edw. Husband,</hi> Printer to the Honorable Houſe of Commons, and are to be ſold at his Shop at the Sign of the Golden Dragon in Fleetſtreet, neer the Inner-Temple, <hi>December</hi> 30. 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:113344:2"/>
+            <pb n="3" facs="tcp:113344:2"/>
+            <opener>
+               <salute>May it pleaſe Your moſt Excellent Majestie,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">V</seg>VHereas in all humility we came to preſent our ſelves this day unto Your Ma<g ref="char:EOLhyphen"/>jeſty, to make our ſeverall Grievances known, we finde we have drawn upon us ſome miſ<g ref="char:EOLhyphen"/>conſtruction by the manner of it, by rea<g ref="char:EOLhyphen"/>ſon Your Majeſty thought it appeared as a Mutiny. We ſhall therefore with all humbleneſſe and clearneſſe preſent unto Your Majeſty, That we the perſons ſub<g ref="char:EOLhyphen"/>ſcribed, who from the beginning of this unhappy War have given ſuch teſtimony to Your Majeſty and the world, of our fidelity and zeal to Your Majeſties Per<g ref="char:EOLhyphen"/>ſon and Cauſe, do think our ſelves as un<g ref="char:EOLhyphen"/>happy to lye under that cenſure, and as we know in our conſciences, our ſelves innocent and free from it; We do in all humility therefore (leſt we ſhould haz<g ref="char:EOLhyphen"/>zard our ſelves upon a ſecond misinter<g ref="char:EOLhyphen"/>pretation)
+<pb n="4" facs="tcp:113344:3"/>
+preſent theſe Reaſons of our humbleſt Deſires unto Your Sacred Ma<g ref="char:EOLhyphen"/>jeſty rather in writing then perſonally, which are theſe:</p>
+            <p>THat many of us, intruſted in high Commands in Your Majeſties ſer<g ref="char:EOLhyphen"/>vice, have not only our Commiſsi<g ref="char:EOLhyphen"/>ons taken away, without any reaſons or cauſes expreſſed, whereby our Honours are blemiſhed to the world, our Fortunes ruined, and wee rendred incapable of truſt or command from any Forraign Princes, but many others (as we have cauſe to fear) deſigned to ſuffer in the ſame manner.</p>
+            <p>Our Intentions in our addreſsing our ſelves to Your Majeſty were, and our ſubmiſsive Deſires now are, That Your Majeſty will be graciouſly pleaſed, that ſuch of us as now labour under the opi<g ref="char:EOLhyphen"/>nion of Unworthineſſe, and incapacity to ſerve Your Majeſty, may at a Councell of War receive knowledge of the cauſes of Your Majeſties diſpleaſure, and have
+<pb n="5" facs="tcp:113344:3"/>
+the Juſtice and Liberty of our Defences againſt what can bee alleadged againſt us, and in particular concerning this Go<g ref="char:EOLhyphen"/>vernment. And if upon the ſevereſt Exa<g ref="char:EOLhyphen"/>mination, our Integrity and Loyalty to Your Majeſty ſhall appear, that then Your Majeſty will be graciouſly pleaſed, to grant us either Reparation in Honour againſt the calumny of our Enemies, or liberty to paſſe into other parts: Which are the humbleſt Deſires of</p>
+            <closer>
+               <signed>Your Majeſties moſt obedient and loyall Subjects and Servants,
+<list>
+                     <item>
+                        <hi>Rupert.</hi>
+                     </item>
+                     <item>
+                        <hi>Maurice.</hi>
+                     </item>
+                     <item>
+                        <hi>Charles Gerrard.</hi>
+                     </item>
+                     <item>
+                        <hi>A. Thacket.</hi>
+                     </item>
+                     <item>
+                        <hi>Rich: Wyllies.</hi>
+                     </item>
+                     <item>
+                        <hi>Cha: Compton.</hi>
+                     </item>
+                     <item>
+                        <hi>Edw: Villers.</hi>
+                     </item>
+                     <item>
+                        <hi>Cha: Wheeler.</hi>
+                     </item>
+                     <item>
+                        <hi>Symon Fanſhaw.</hi>
+                     </item>
+                     <item>
+                        <hi>Tho: Daniel.</hi>
+                     </item>
+                     <item>
+                        <hi>William Willys.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Fiſher.</hi>
+                     </item>
+                     <item>
+                        <hi>William Rolleſton.</hi>
+                     </item>
+                     <item>
+                        <hi>William Bellenden.</hi>
+                     </item>
+                     <item>
+                        <hi>Som: Fox.</hi>
+                     </item>
+                     <item>
+                        <hi>Hen: Osborn.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Skrimſher.</hi>
+                     </item>
+                     <item>
+                        <hi>Rich: Hatton.</hi>
+                     </item>
+                     <item>
+                        <hi>Sebaſtian Bunckley.</hi>
+                     </item>
+                     <item>
+                        <hi>Iames</hi>
+                     </item>
+                     <item>
+                        <hi>Rob: Dalliſon.</hi>
+                     </item>
+                     <item>
+                        <hi>George Bunckley.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Daniell.</hi>
+                     </item>
+                  </list>
+               </signed>
+               <dateline>
+                  <date>
+                     <hi>Octo.</hi> 26. 1645.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:113344:4"/>
+            <head>To Our Truſty and welbeloved, Colonel <hi>Samuel Sands,</hi> Gover<g ref="char:EOLhyphen"/>nour of Our City and Gar<g ref="char:EOLhyphen"/>riſon of <hi>Worceſter.</hi>
+            </head>
+            <opener>
+               <signed>Charles R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Ruſty and Welbeloved We greet you well; By Our former Letters We expreſs'd Our care to prevent the Incon<g ref="char:EOLhyphen"/>venience that might ariſe to the country and Our ſervice, if Our Nephews, Prince <hi>Rupert</hi> &amp; Prince <hi>Maurice,</hi> with their train and fol<g ref="char:EOLhyphen"/>lowers, ſhould make any long a<g ref="char:EOLhyphen"/>bode at <hi>Worceſter</hi> or other our quar<g ref="char:EOLhyphen"/>ters; which by your Letters to
+<pb n="7" facs="tcp:113344:4"/>
+               <hi>Sir Edward Walker</hi> We perceive was not without cauſe, as your care therein, and of Our ſervice, is ve<g ref="char:EOLhyphen"/>ry acceptable unto Vs, ſo We deſire your continuance thereof. Our Nephews ſtay in Our quar<g ref="char:EOLhyphen"/>ters, hath already bin longer then We expected; &amp; becauſe We preſume it is like to be inlarged, in regard the Paſſes which have been ſent them from <hi>London</hi> are ſuch, as they thought not fit to accept of; Our Will and Command is, That you declare unto them, that Our pleaſure is, That they deliver un<g ref="char:EOLhyphen"/>to you a Liſt of all their own Ser<g ref="char:EOLhyphen"/>vants, which they intend to take with them; who We will you to accomodate as well as you may, with quarters and other neceſſa<g ref="char:EOLhyphen"/>ries for them, during their reſi<g ref="char:EOLhyphen"/>ding with you, which We pre<g ref="char:EOLhyphen"/>ſume will not be long. And that for all others who adhere unto
+<pb n="8" facs="tcp:113344:5"/>
+them, as well thoſe who have Paſſes from Vs, as thoſe who have not, Our Command is, that you ſignifie Our pleaſure unto them, That they leave Our quar<g ref="char:EOLhyphen"/>ters by the firſt of <hi>December</hi> next, for that We may not bear the In<g ref="char:EOLhyphen"/>convenience of the eating out of Our quarters, by thoſe who have ſo abandoned Our ſervice. Herein you are to be very carefull, and to give Vs a ſpeedy account of your proceedings, for which this ſhall be your Warrant.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at Our Court at Ox<g ref="char:EOLhyphen"/>ford,</hi>
+                  <date>
+                     <hi>Nov. 23. 1645.</hi>
+                  </date>
+               </dateline>
+               <signed>
+                  <hi>By His Majeſties command, <hi>Ed: Walker.</hi>
+                  </hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
